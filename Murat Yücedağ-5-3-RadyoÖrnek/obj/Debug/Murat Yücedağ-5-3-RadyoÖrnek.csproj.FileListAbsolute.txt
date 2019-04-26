@@ -1,0 +1,30 @@
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Murat Yücedağ-5-3-RadyoÖrnek.exe.config
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Murat Yücedağ-5-3-RadyoÖrnek.exe
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Murat Yücedağ-5-3-RadyoÖrnek.pdb
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Interop.WMPLib.dll
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csprojAssemblyReference.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Interop.WMPLib.dll
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csproj.ResolveComReference.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat_Yücedağ_5_3_RadyoÖrnek.Form1.resources
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat_Yücedağ_5_3_RadyoÖrnek.Properties.Resources.resources
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csproj.GenerateResource.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.exe
+C:\Users\bulut\Desktop\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.pdb
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Murat Yücedağ-5-3-RadyoÖrnek.exe.config
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Murat Yücedağ-5-3-RadyoÖrnek.exe
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Murat Yücedağ-5-3-RadyoÖrnek.pdb
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\Interop.WMPLib.dll
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csprojAssemblyReference.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Interop.WMPLib.dll
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csproj.ResolveComReference.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat_Yücedağ_5_3_RadyoÖrnek.Form1.resources
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat_Yücedağ_5_3_RadyoÖrnek.Properties.Resources.resources
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csproj.GenerateResource.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.exe
+C:\Users\bulut\Desktop\School\C#\Murat Yücedağ\Murat Yücedağ-5-3-RadyoÖrnek\Murat Yücedağ-5-3-RadyoÖrnek\obj\Debug\Murat Yücedağ-5-3-RadyoÖrnek.pdb
